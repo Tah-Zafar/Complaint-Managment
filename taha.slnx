@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="taha.vcxproj" Id="01351657-9c27-4f5c-b992-80953ea667f4" />
+</Solution>

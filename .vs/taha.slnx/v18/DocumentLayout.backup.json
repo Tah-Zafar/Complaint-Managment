@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\oop\\oops project\\taha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01351657-9C27-4F5C-B992-80953EA667F4}|taha.vcxproj|D:\\study\\oop\\oops project\\taha\\taha.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01351657-9C27-4F5C-B992-80953EA667F4}|taha.vcxproj|solutionrelative:taha.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01351657-9C27-4F5C-B992-80953EA667F4}|taha.vcxproj|D:\\study\\oop\\oops project\\taha\\Complaints.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{01351657-9C27-4F5C-B992-80953EA667F4}|taha.vcxproj|solutionrelative:Complaints.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01351657-9C27-4F5C-B992-80953EA667F4}|taha.vcxproj|D:\\study\\oop\\oops project\\taha\\Users.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{01351657-9C27-4F5C-B992-80953EA667F4}|taha.vcxproj|solutionrelative:Users.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "taha.cpp",
+              "DocumentMoniker": "D:\\study\\oop\\oops project\\taha\\taha.cpp",
+              "RelativeDocumentMoniker": "taha.cpp",
+              "ToolTip": "D:\\study\\oop\\oops project\\taha\\taha.cpp*",
+              "RelativeToolTip": "taha.cpp*",
+              "ViewState": "AgIAAIgBAAAAAAAAAAAAAPIBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-28T15:25:22.307Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.txt",
+              "DocumentMoniker": "D:\\study\\oop\\oops project\\taha\\Users.txt",
+              "RelativeDocumentMoniker": "Users.txt",
+              "ToolTip": "D:\\study\\oop\\oops project\\taha\\Users.txt",
+              "RelativeToolTip": "Users.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-28T16:21:14.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Complaints.txt",
+              "DocumentMoniker": "D:\\study\\oop\\oops project\\taha\\Complaints.txt",
+              "RelativeDocumentMoniker": "Complaints.txt",
+              "ToolTip": "D:\\study\\oop\\oops project\\taha\\Complaints.txt",
+              "RelativeToolTip": "Complaints.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-28T17:20:36.103Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
